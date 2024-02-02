@@ -72,7 +72,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/t
 
 
 Long story short:
-1. This is a React based application of fetching News by hitting NewsAPI freeling available on https://newsapi.org/, here you can create your onw API and add it to your component.
+1. This is a React Class based application of fetching News by hitting NewsAPI freeling available on https://newsapi.org/, here you can create your onw API and add it to your component.
 
 2. This app uses ReactJS for web app and bootstrap for stying.
 
