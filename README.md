@@ -68,3 +68,17 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+Long story short:
+1. This is a React based application of fetching News by hitting NewsAPI freeling available on https://newsapi.org/, here you can create your onw API and add it to your component.
+
+2. This app uses ReactJS for web app and bootstrap for stying.
+
+3. You need to install some packages in order to run this app, like this in your terminal 'npm i react-router-dom react-infinite-scroll-component react-top-loading-bar'
+
+4. Your app will look like this once the setup is completed
+
+   Deshtop: <img width="1724" alt="image" src="https://github.com/navneetkr999/newsApp/assets/26175607/17bd40f0-b9ea-4fb4-9258-e37056ab6501">
+   Mobile: <img width="435" alt="image" src="https://github.com/navneetkr999/newsApp/assets/26175607/03eaaca5-6bf4-40f0-9925-666bc502a65a">
